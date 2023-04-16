@@ -1,0 +1,2 @@
+# SnakeGameJs
+medium javascript codes
